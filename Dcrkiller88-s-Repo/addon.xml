@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="Dcrkiller88-s-Repo" name="Dcrkiller88's Repo" version="0.0.2" provider-name="Dcrkiller88">
+<addon id="Dcrkiller88-s-Repo" name="Dcrkiller88's Repo" version="0.0.2" provider-name="dcrkiller88">
 	<extension point="xbmc.addon.repository" name="Dcrkiller88's Repo">
 		<info compressed="false">http://raw.github.com/dcrkiller88/Dcrkiller88-s-Repo/master/addons.xml</info>
 		<checksum>http://raw.github.com/dcrkiller88/Dcrkiller88-s-Repo/master/addons.xml.md5</checksum>
