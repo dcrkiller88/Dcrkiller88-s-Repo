@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="Mafarricos">
-	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/repo/</datadir>
+<addon id="Dcrkiller88-s-Repo" name="Dcrkiller88's Repo" version="0.0.2" provider-name="Dcrkiller88">
+	<extension point="xbmc.addon.repository" name="Dcrkiller88's Repo">
+		<info compressed="false">http://raw.github.com/dcrkiller88/Dcrkiller88-s-Repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/dcrkiller88/Dcrkiller88-s-Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/dcrkiller88/Dcrkiller88-s-Repo/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
+		<summary>Dcrkiller88's Repo</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
